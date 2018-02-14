@@ -1,0 +1,1 @@
+No programming assignemts in this course.
