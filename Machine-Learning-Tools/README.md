@@ -4,9 +4,9 @@ This repository discusses subset of machine learning tools and shows their usabi
 Example
 
 ## Content
-* [WEKA,MOA,ELKI,Apache Pig scripts](https://github.com/5uperpalo/Big-DAMA/blob/master/Machine-Learning-Tools/weka_moa_elki_pig.md)
-* [How to load data into Apache Spark](https://github.com/5uperpalo/Big-DAMA/blob/master/Machine-Learning-Tools/spark_load_data.md)
-* [Apache Spark scripts](https://github.com/5uperpalo/Big-DAMA/blob/master/Machine-Learning-Tools/dev_scripts.ipynb)
+* [WEKA,MOA,ELKI,Apache Pig scripts](https://github.com/5uperpalo/Machine-Learning/blob/master/Machine-Learning-Tools/weka_moa_elki_pig.md)
+* [How to load data into Apache Spark](https://github.com/5uperpalo/Machine-Learning/blob/master/Machine-Learning-Tools/spark_load_data.md)
+* [Apache Spark scripts](https://github.com/5uperpalo/Machine-Learning/blob/master/Machine-Learning-Tools/dev_scripts.ipynb)
 
 Notes and will discuss following tools:
 * [WEKA - Data Mining Software in Java](https://www.cs.waikato.ac.nz/ml/weka/)
